@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" tvg-url="" group-title="News",CNN Indonesia (720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="nasional", SCTV
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="nasional", RCTI
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS 7
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="nasional", INDOSIAR
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1f5Yhzp/14040323.png" group-title="news", BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1,O Channel
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
