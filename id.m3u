@@ -5,29 +5,26 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" tvg-url="" group-title="News",CNN Indonesia (720p)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1,METRO TV
+#EXTINF:-1, Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="nasional", SCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png", SCTV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="nasional", RCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png", RCTI
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png", TRANS TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png", TRANS 7
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="nasional", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png", INDOSIAR
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1f5Yhzp/14040323.png" group-title="news", BERITASATU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1f5Yhzp/14040323.png", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:-1,TVRI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/320px-New_Logo_TVRI.png",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-
-#EXTINF:-1,O Channel
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
